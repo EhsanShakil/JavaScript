@@ -1,4 +1,4 @@
-// There are two Data Type in JavaScript Primitive Data Types and Composite (Non-primitive) Data Type.
+// There are two Data Type in JavaScript Primitive Data Types and Composite (Non-primitive) Data Types.
 
 // Primitive Data Types:
 
