@@ -4,7 +4,7 @@
 
 // 1) String.
 // 2) Number.
-// 3) Symbol.
+// 3) BigInt.
 // 4) Boolean.
 // 5) Undefined.
 // 6) Null.
